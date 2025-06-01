@@ -242,19 +242,6 @@ Details:
 	Basic constraints: valid, is a CA certificate
 	SANs (0):
 CERTIFICATE
-Subject: /Baltimore CyberTrust Root/C=IE/O=Baltimore/OU=CyberTrust
-Issuer: /Baltimore CyberTrust Root/C=IE/O=Baltimore/OU=CyberTrust
-	Signature algorithm: RSA / SHA1
-Details:
-	Public key: RSA-2048
-	Serial number: 33554617
-	SKI: E5:9D:59:30:82:47:58:CC:AC:FA:08:54:36:86:7B:3A:B5:04:4D:F0
-	Valid from: 2000-05-12T18:46:00+0000
-	     until: 2025-05-12T23:59:00+0000
-	Key usages: cert sign, crl sign
-	Basic constraints: valid, is a CA certificate, max path length 3
-	SANs (0):
-CERTIFICATE
 Subject: /SwissSign CA (RSA IK May 6 1999 18:00:58)/C=CH/O=SwissSign
 Issuer: /SwissSign CA (RSA IK May 6 1999 18:00:58)/C=CH/O=SwissSign
 	Signature algorithm: RSA / SHA1
@@ -648,22 +635,6 @@ Details:
 	Valid from: 2004-12-20T02:31:27+0000
 	     until: 2034-12-20T02:31:27+0000
 	Key usages: 
-	Basic constraints: valid, is a CA certificate
-	SANs (0):
-CERTIFICATE
-Subject: /Autoridad Certificadora Raiz de la Secretaria de
-    Economia/C=MX/O=Secretaria de Economia/OU=Direccion General de
-    Normatividad Mercantil/L=Alvaro Obregon/ST=Distrito Federal
-Issuer: /Autoridad Certificadora Raiz de la Secretaria de
-    Economia/C=MX/O=Secretaria de Economia/OU=Direccion General de
-    Normatividad Mercantil/L=Alvaro Obregon/ST=Distrito Federal
-	Signature algorithm: RSA / SHA1
-Details:
-	Public key: RSA-2048
-	Serial number: 1
-	Valid from: 2005-05-08T00:00:00+0000
-	     until: 2025-05-08T00:00:00+0000
-	Key usages: cert sign, crl sign
 	Basic constraints: valid, is a CA certificate
 	SANs (0):
 CERTIFICATE
@@ -1344,19 +1315,6 @@ Details:
 	Valid from: 2007-04-16T07:09:14+0000
 	     until: 2027-04-16T07:09:14+0000
 	Key usages: cert sign, content committment, crl sign, data encipherment, digital signature, key agreement, key encipherment
-	Basic constraints: valid, is a CA certificate
-	SANs (0):
-CERTIFICATE
-Subject: /DigiNotar Root CA/C=NL/O=DigiNotar
-Issuer: /DigiNotar Root CA/C=NL/O=DigiNotar
-	Signature algorithm: RSA / SHA1
-Details:
-	Public key: RSA-4096
-	Serial number: 16567860948503251126030800461245922380
-	SKI: 88:68:BF:E0:8E:35:C4:3B:38:6B:62:F7:28:3B:84:81:C8:0C:D7:4D
-	Valid from: 2007-05-16T17:19:36+0000
-	     until: 2025-03-31T18:19:21+0000
-	Key usages: cert sign, crl sign
 	Basic constraints: valid, is a CA certificate
 	SANs (0):
 CERTIFICATE
